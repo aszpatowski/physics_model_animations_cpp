@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.frag": "cpp",
+        "*.ipp": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "iomanip": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "tuple": "cpp"
+    }
+}
